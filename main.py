@@ -1,3 +1,4 @@
+# FastAPI Assignment 4 - Part 1: GET endpoints
 from typing import Union
 from fastapi import FastAPI
 from pydantic import BaseModel
