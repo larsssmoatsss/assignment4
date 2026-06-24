@@ -1,4 +1,5 @@
 # FastAPI Assignment 4 - Part 1: GET endpoints
+# Part 2: Item model and PUT endpoint
 from typing import Union
 from fastapi import FastAPI
 from pydantic import BaseModel
